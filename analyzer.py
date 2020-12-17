@@ -1,6 +1,6 @@
 import random
 import time
-from functions import quickSort, mergeSort, bubbleSort, binarySearch
+from functions import quickSort, mergeSort, bubbleSort
 
 def createRandomList(size, max_val):
     ranList = []
